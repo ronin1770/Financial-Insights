@@ -53,6 +53,7 @@ You can execute the script (main.py - entry point) using the following command:
 
     python3 main.py
 
+## Output
 Output would look like the following:
 
     INFO:Yearly_Parser:Initializing DataReader
