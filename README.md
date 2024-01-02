@@ -24,14 +24,23 @@ Folder structure is as follows:
 
 **ROOT Installation Folder**
            | - -
+           
            | - - - data
+           
            | - - - objects
+           
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - charts.py
+           
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - custom_logger.py
+           
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - data_reader.py
+           
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - -_ _init_ _.py
+           
            | - - - output
+           
            | - - - main.py
+           
            | - - - requirements.txt
 
 ## Setup Python Libraries
