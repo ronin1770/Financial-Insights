@@ -68,3 +68,19 @@ Output would look like the following:
     2023Q4 -- Income -- 63629.69
     INFO:Yearly_Parser:Successfully exported output result as csv
 
+
+Output folder will contain following files:
+
+    income_expense_graph.png
+    out_2023.csv
+    quater_2023Q1.png
+    quater_2023Q2.png
+    quater_2023Q3.png
+    quater_2023Q4.png
+
+Where:
+**income_expense_graph.png** contains the pie chart that shows annual income vs expense in a **Pie chart**.
+
+**out_2023.csv** contains the output CSV file containing the aggregate sums per expense category  and expense type. E.g.,  expense category = School and expense type = Expense
+
+**quater_2023Q1, quater_2023Q2, quater_2023Q3, quater_2023Q4,**  are the image files that show income vs expense bar graph and bar graph for expense categories.
