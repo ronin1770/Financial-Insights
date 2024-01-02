@@ -29,13 +29,13 @@ Folder structure is as follows:
            
            | - - - objects
            
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - charts.py
+               | - - - charts.py
            
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - custom_logger.py
+               | - - - custom_logger.py
            
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - - data_reader.py
+               | - - - data_reader.py
            
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - -_ _init_ _.py
+               | - - -_ _init_ _.py
            
            | - - - output
            
