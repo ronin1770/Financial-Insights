@@ -58,13 +58,13 @@ Output would look like the following:
     INFO:Yearly_Parser:Initializing DataReader
     INFO:Yearly_Parser:Number of data files in the directory: 1
     INFO:Yearly_Parser:Reading 2023.csv
-    2023Q1 -- Expense -- 1525669.0
-    2023Q1 -- Income -- 3502987.64
-    2023Q2 -- Expense -- 1063338.0
-    2023Q2 -- Income -- 2065191.0
-    2023Q3 -- Expense -- 687004.0
-    2023Q3 -- Income -- 4255222.0
-    2023Q4 -- Expense -- 717412.0
-    2023Q4 -- Income -- 6362349.69
+    2023Q1 -- Expense -- 15256.0
+    2023Q1 -- Income -- 3502.64
+    2023Q2 -- Expense -- 1063.0
+    2023Q2 -- Income -- 2065.0
+    2023Q3 -- Expense -- 6874.0
+    2023Q3 -- Income -- 42522.0
+    2023Q4 -- Expense -- 7112.0
+    2023Q4 -- Income -- 63629.69
     INFO:Yearly_Parser:Successfully exported output result as csv
 
